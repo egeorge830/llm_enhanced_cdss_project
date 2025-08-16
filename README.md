@@ -82,6 +82,8 @@ python "Medgemma 4b.py"
 - Processes clinical images through OCR
 - Integrates visual medical data into the knowledge base
 
+Note: Code includes validation checkmarks (✓) for systematic testing verification as part of our clinical validation methodology.
+
 ## What It Does
 
 - **Collects real patient data** from HAPI FHIR server with diabetes-related lab values
